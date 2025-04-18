@@ -2,7 +2,7 @@
 
 ![Animacion](./black.svg)
 
-> **Soy un Desarrollador y Programador Principiante De Bots De WhatsApp 🖥️.**
+> **Soy un Desarrollador y Programador  De Bots De WhatsApp 🖥️.**
 
 
 <p align="center">
