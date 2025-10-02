@@ -5,7 +5,7 @@
 
 <!-- 🎮 IMAGEN DE BIENVENIDA CYBERPUNK -->
 <p align="center">
-  <img src="https://qu.ax/XafjC.jpg" width="100%" alt="Bienvenido al Sistema Cyberpunk">
+  <img src="https://qu.ax/YtMVO.jpg" width="100%" alt="Bienvenido al Sistema Cyberpunk">
 </p>
 
 ---
