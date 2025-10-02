@@ -1,7 +1,3 @@
-<!-- 🚀 ANIMACIÓN INICIAL - CYBERPUNK ANIME FUNCIONAL -->
-<p align="center">
-  <img src="https://qu.ax/YtMVO.jpg" width="420px" alt="Cyberpunk Anime Hacker">
-</p>
 
 <!-- 🎮 IMAGEN DE BIENVENIDA CYBERPUNK -->
 <p align="center">
