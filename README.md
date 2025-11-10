@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=false&vCenter=false&lines=۞+𝐎𝐅𝐂+La+red+no+duerme...+y+yo+tampoco." alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=false&vCenter=false&lines=۞+LA+RED+NO+DUERME+Y+YO+TAMPOCO." alt="Typing"/>
 </p>
 
 ## ⚙️ TECNOLOGÍAS
