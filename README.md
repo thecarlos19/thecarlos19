@@ -14,10 +14,10 @@
 ---
 
 🧠 **Bot Developer | Hacker Digital**  
-💾 Conectando códigos en un mundo distorsionado por la tecnología  
+💾 *Conectando códigos en un mundo distorsionado por la tecnología*  
 🚀 *Desde Night City al universo WhatsApp...*
 
-🎯 Lenguajes, scripts y comandos hechos con estilo ⚡  
+🎯 *Lenguajes, scripts y comandos hechos con estilo ⚡*  
 🔊 *“La red no duerme... y yo tampoco.”*
 
 ---
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=00FF99" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=FCEE09" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Baileys-MD-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF99" alt="Baileys"/>
+  <img src="https://img.shields.io/badge/Baileys_MD-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF99" alt="Baileys"/>
   <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
   <img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=4DB33D" alt="MongoDB"/>
@@ -37,17 +37,13 @@
 
 ---
 
-## 📱 CONTACTO DIRECTO
+## 📱 CONTACTO Y REDES
 
 <p align="center">
   <a href="https://wa.me/525544876071?text=Hola+Carlos%2C+vengo+de+tu+perfil+de+GitHub+💻">
     <img src="https://files.catbox.moe/kn2z7q.jpg" height="125px" alt="WhatsApp Contact">
   </a>
 </p>
-
----
-
-## 🌐 MIS REDES
 
 <p align="center">
   <a href="https://wa.me/525544876071">
@@ -64,13 +60,13 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04?text=.menu">
-    <img src="https://img.shields.io/badge/Canal-Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=FF0000" alt="Canal Oficial"/>
+    <img src="https://img.shields.io/badge/Canal_Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=FF0000" alt="Canal Oficial"/>
   </a>
 </p>
 
 ---
 
-## 📊 ESTADÍSTICAS
+## 📊 ESTADÍSTICAS GITHUB
 
 <div align="center">
   <a href="https://github.com/thecarlos19/">
@@ -81,7 +77,7 @@
 
 ---
 
-## 💻 MI PROYECTO PRINCIPAL
+## 💻 PROYECTO PRINCIPAL
 
 <p align="center">
   <a href="https://github.com/thecarlos19/black-clover-MD">
