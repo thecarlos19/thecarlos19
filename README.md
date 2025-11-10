@@ -4,13 +4,13 @@
 </p>
 
 <div align="center">
-  <h1 style="font-family: 'Orbitron', sans-serif; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">[ VISITAS REGISTRADAS EN EL SISTEMA ]</h1>
+  <h1 style="font-family: 'Orbitron', sans-serif; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">[ VISITAS REGISTRADAS ]</h1>
 
   <p style="background:linear-gradient(90deg,#00FFFF33,#FF00FF33); border:1px solid #00FFFF44; border-radius:10px; padding:15px 30px; display:inline-block; color:#FFD166; font-family:'Share Tech Mono',monospace; font-size:28px; box-shadow:0 0 15px #00FFFF44 inset;">
     <b>9999</b> VISITAS
   </p>
 
-  <p style="font-size:14px; color:#ccc; margin-top:10px;">(🥷🏻)</p>
+  <p style="font-size:14px; color:#ccc; margin-top:10px;"> Dev - The Carlos 👑</p>
 </div>
 ---
 
