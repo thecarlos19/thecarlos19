@@ -4,16 +4,19 @@
 </p>
 
 <div align="center">
-  <h1 style="font-family: 'Orbitron', sans-serif; color:#00FFFF; text-shadow:0 0 10px #00FFFF;"> The Legends </h1>
+  <h1 style="font-family: 'Orbitron', sans-serif; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">The Legends</h1>
 
   <p style="background:linear-gradient(90deg,#00FFFF33,#FF00FF33); border:1px solid #00FFFF44; border-radius:10px; padding:15px 30px; display:inline-block; color:#FFD166; font-family:'Share Tech Mono',monospace; font-size:28px; box-shadow:0 0 15px #00FFFF44 inset;">
     <b></b> 
   </p>
 
-  <p style="font-size:14px; color:#ccc; margin-top:10px;"> Dev - The Carlos 👑</p>
+  <p style="font-size:14px; color:#ccc; margin-top:10px;">Dev - The Carlos 👑</p>
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=falso&vCenter=falso&lines=۞+𝐎𝐅𝐂+۞;CUENTA✞">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=false&vCenter=false&lines=۞+𝐎𝐅𝐂+La+red+no+duerme...+y+yo+tampoco.
+  " alt="Typing"/>
+</p>
 
 ## ⚙️ TECNOLOGÍAS
 
@@ -30,17 +33,13 @@
 
 ---
 
-## 📱 CONTACTO DIRECTO
+## 📱 CONTACTO DIRECTO Y MIS REDES
 
 <p align="center">
   <a href="https://wa.me/525544876071?text=Hola+Carlos%2C+vengo+de+tu+perfil+de+GitHub+💻">
-    <img src="https://files.catbox.moe/kn2z7q.jpg" height="125px" alt="WhatsApp Contact">
+    <img src="https://files.catbox.moe/kn2z7q.jpg" height="125px" alt="WhatsApp Contact"/>
   </a>
 </p>
-
----
-
-## 🌐 MIS REDES
 
 <p align="center">
   <a href="https://wa.me/525544876071">
