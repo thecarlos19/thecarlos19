@@ -3,17 +3,17 @@
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/banner-header.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
-<div align="center">
-  # [ VISITAS REGISTRADAS EN EL SISTEMA ]
+# <p align="center">[ VISITAS REGISTRADAS EN EL SISTEMA ]</p>
 
+<p align="center">
   ![Visitas](https://img.shields.io/badge/Visitas-9999-00FFFF?style=for-the-badge&logo=appveyor&logoColor=FF00FF)
+</p>
 
-  <sub style="color:#ccc;">(Visual cyberpunk — solo Markdown/GitHub)</sub>
-</div>
+<p align="center" style="color:#ccc;">(Visual cyberpunk — solo Markdown/GitHub)</p>
 
 ---
 
-### 🧠 Bot Developer | Hacker Digital
+## 🧠 Bot Developer | Hacker Digital
 💾 Conectando códigos en un mundo distorsionado por la tecnología  
 🚀 Desde Night City al universo WhatsApp  
 
