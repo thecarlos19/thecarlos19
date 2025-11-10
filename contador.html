@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contador — The Carlos Cyberpunk</title>
+
+<!-- Fuentes -->
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg1:#01030a;
+    --bg2:#060b1a;
+    --neon-pink:#ff2d95;
+    --neon-cyan:#00f0ff;
+    --neon-yellow:#ffd166;
+  }
+
+  html,body{
+    margin:0;
+    height:100%;
+    font-family:"Share Tech Mono","Courier New",monospace;
+    background:radial-gradient(1200px 600px at 10% 10%,rgba(0,240,255,0.03),transparent),
+               linear-gradient(180deg,var(--bg1),var(--bg2));
+    color:#e6f8ff;
+    overflow:hidden;
+  }
+
+  /* Fondo animado */
+  .grid{
+    position:fixed;inset:0;
+    background-image:
+      linear-gradient(90deg,rgba(0,255,255,0.04)1px,transparent 1px),
+      linear-gradient(0deg,rgba(255,45,149,0.02)1px,transparent 1px);
+    background-size:40px 40px;
+    animation:move 40s linear infinite;
+    opacity:.5;
+    mix-blend-mode:overlay;
+  }
+  @keyframes move{
+    from{transform:translate(0,0);}
+    to{transform:translate(-120px,-60px);}
+  }
+
+  /* Tarjeta principal */
+  main{
+    position:relative;
+    z-index:2;
+    max-width:850px;
+    margin:8vh auto;
+    padding:28px;
+    border-radius:14px;
+    backdrop-filter:blur(6px) saturate(140%);
+    background:rgba(255,255,255,0.02);
+    border:1px solid rgba(0,255,255,0.08);
+    box-shadow:0 0 40px rgba(0,0,0,0.7),inset 0 0 40px rgba(0,240,255,0.03);
+    display:flex;
+    align-items:center;
+    gap:20px;
+  }
+
+  .emblem{
+    width:140px;height:140px;
+    border-radius:12px;
+    background:linear-gradient(135deg,rgba(255,45,149,0.12),rgba(0,240,255,0.08));
+    display:flex;align-items:center;justify-content:center;
+    color:var(--neon-pink);
+    font-family:"Orbitron",sans-serif;
+    font-weight:900;letter-spacing:3px;text-transform:uppercase;
+    box-shadow:0 0 20px rgba(255,45,149,0.2);
+    transform:rotate(-6deg);
+  }
+
+  .meta{flex:1;display:flex;flex-direction:column;gap:6px;}
+  .title{
+    font-family:"Orbitron",sans-serif;
+    color:var(--neon-cyan);
+    text-transform:uppercase;
+    font-size:22px;
+    display:flex;align-items:center;gap:10px;
+  }
+  .badge{
+    font-size:12px;
+    padding:4px 10px;
+    border-radius:999px;
+    border:1px solid rgba(255,255,255,0.05);
+    background:linear-gradient(90deg,rgba(255,45,149,0.14),rgba(0,240,255,0.07));
+    color:var(--neon-pink);
+  }
+  .desc{color:#9dbfcc;opacity:.9;font-size:13px;max-width:60ch;}
+
+  .counter{
+    width:220px;height:110px;
+    border-radius:12px;
+    background:linear-gradient(180deg,rgba(2,8,23,0.6),rgba(6,10,20,0.3));
+    border:1px solid rgba(0,240,255,0.12);
+    display:flex;align-items:center;justify-content:center;flex-direction:column;
+    box-shadow:0 0 30px rgba(0,240,255,0.05) inset;
+  }
+
+  .num{
+    font-family:"Orbitron",sans-serif;
+    font-size:44px;
+    font-weight:900;
+    color:var(--neon-yellow);
+    text-shadow:0 0 10px rgba(255,209,102,0.12),0 0 36px rgba(255,209,102,0.08);
+  }
+  .label{font-size:11px;text-transform:uppercase;color:#cfeff7;margin-top:6px;letter-spacing:1.6px;}
+  .footer{
+    position:fixed;bottom:12px;left:18px;
+    font-size:12px;color:#8fcbe9;
+  }
+  .sig{
+    background:linear-gradient(90deg,rgba(0,240,255,0.05),rgba(255,45,149,0.05));
+    border:1px solid rgba(255,255,255,0.04);
+    border-radius:8px;padding:6px 10px;color:var(--neon-pink);
+  }
+
+  @media(max-width:720px){
+    main{flex-direction:column;align-items:center;}
+    .emblem{transform:none;width:120px;height:120px;}
+    .counter{width:92%;}
+  }
+</style>
+</head>
+
+<body>
+  <div class="grid"></div>
+
+  <main>
+    <div class="emblem">CY77</div>
+
+    <div class="meta">
+      <div class="title">Visitor Protocol<span class="badge">Cyberpunk 77</span></div>
+      <div class="desc">Módulo de telemetría local — cada apertura incrementa el registro en este dispositivo.</div>
+    </div>
+
+    <div class="counter">
+      <div class="num" id="countDisplay">0</div>
+      <div class="label">VISITS</div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="sig">Creado x The Carlos</div>
+  </footer>
+
+<script>
+const KEY='contador_cyberpunk_thecarlos_v1';
+let count=parseInt(localStorage.getItem(KEY))||0;
+count++;
+localStorage.setItem(KEY,count);
+const disp=document.getElementById('countDisplay');
+disp.textContent=count.toLocaleString('es-MX');
+
+document.title=`Contador — ${count} visitas · The Carlos`;
+
+// Doble clic para reiniciar
+document.querySelector('.counter').addEventListener('dblclick',()=>{
+  if(confirm('¿Resetear contador local?')){
+    localStorage.setItem(KEY,0);
+    disp.textContent='0';
+    document.title='Contador — 0 visitas · The Carlos';
+  }
+});
+</script>
+</body>
+</html>
