@@ -10,13 +10,8 @@
     <b>9999</b> VISITAS
   </p>
 
-  <p style="font-size:14px; color:#ccc; margin-top:10px;">(Visual cyberpunk — sin JS en GitHub)</p>
+  <p style="font-size:14px; color:#ccc; margin-top:10px;">(🥷🏻)</p>
 </div>
-
-`[ VISITAS REGISTRADAS EN EL SISTEMA ]`
-
-</div>
-
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=falso&vCenter=falso&lines=۞+𝐎𝐅𝐂+۞;@Thecarlos✞">
