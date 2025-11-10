@@ -1,7 +1,14 @@
 <!-- 🎮 IMAGEN DE BIENVENIDA CYBERPUNK -->
-<div align="center" style="background:#000;padding:15px;border-radius:10px;">
-  <img src="https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=dark&padding=5&scale=3" alt="Contador Dark"/>
-  <p><code style="color:#00FF99;">[ VISITAS REGISTRADAS EN EL SISTEMA ]</code></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/banner-header.gif" width="100%" alt="Cyberpunk Banner"/>
+</p>
+
+<div align="center">
+
+![Contador de visitas](https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=tokyo-night&padding=5&scale=3)
+
+`[ VISITAS REGISTRADAS EN EL SISTEMA ]`
+
 </div>
 
 ---
@@ -10,8 +17,7 @@
 💾 Conectando códigos en un mundo distorsionado por la tecnología  
 🚀 *Desde Night City al universo WhatsApp...*
 
-🎯 Lenguajes, scripts y comandos hechos con estilo ⚡
-
+🎯 Lenguajes, scripts y comandos hechos con estilo ⚡  
 🔊 *“La red no duerme... y yo tampoco.”*
 
 ---
