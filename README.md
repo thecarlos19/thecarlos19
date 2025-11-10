@@ -1,8 +1,14 @@
 <!-- 🎮 IMAGEN DE BIENVENIDA CYBERPUNK -->
 <div align="center">
-  <img src="https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=dark&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center" alt="Contador Dark">
-  <br>
-  <img src="https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=tokyo-night&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center" alt="Contador Tokyo Night">
+
+### 🕶️ CONTADOR - DARK THEME
+<img src="https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=dark&padding=10&offset=0&align=center&scale=2&pixelated=1&darkmode=1" alt="Contador Dark"/>
+
+---
+
+### 🌃 CONTADOR - TOKYO NIGHT THEME
+<img src="https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=tokyo-night&padding=10&offset=0&align=center&scale=2&pixelated=1&darkmode=1" alt="Contador Tokyo Night"/>
+
 </div>
 
 ---
