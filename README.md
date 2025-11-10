@@ -1,7 +1,7 @@
 <!-- 🎮 IMAGEN DE BIENVENIDA CYBERPUNK -->
-<p align="center">
-  <img src="https://qu.ax/LWbQq.jpg" width="100%" alt="Bienvenido al Sistema Cyberpunk">
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center" alt="Contador de visitas">
+</div>
 
 ---
 
