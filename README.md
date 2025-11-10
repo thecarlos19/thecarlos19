@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Contador de visitas](https://count.getloli.com/@thecarlos19?name=thecarlos19&theme=tokyo-night&padding=5&scale=3)
+<img src="https://i.pinimg.com/originals/07/8a/3e/078a3ecfa8d3f3c0f22ecb4383c5ed3a.gif" width="300" alt="Contador de Visitas Animado"/>
 
 `[ VISITAS REGISTRADAS EN EL SISTEMA ]`
 
