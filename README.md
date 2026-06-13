@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=45&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=THE+LEGENDS+2026;SYSTEM+ONLINE;ACCESS+GRANTED;BLACK+CLOVER+V777" alt="Typing Animation"/>
   
   <p style="background:linear-gradient(90deg,#00FFFF33,#FF00FF33,#1E90FF33); border:1px solid #00FFFF88; border-radius:12px; padding:18px 35px; display:inline-block; color:#FFD166; font-family:Share Tech Mono, monospace; font-size:30px; box-shadow:0 0 20px #00FFFF66 inset, 0 0 30px #00FFFF44; animation: pulse 2s infinite;">
-    <b>Cyber Dev • Bots IA • Automatización Neural</b>
+    <b>Cyber Dev • Bots  • Gemer </b>
   </p>
 
   <p style="font-size:16px; color:#00FFFF; margin-top:12px; text-shadow:0 0 8px #00FFFF;">
@@ -29,8 +29,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=۞+LA+RED+NO+DUERME+Y+YO+TAMPOCO;۞+HACKEANDO+WHATSAPP+DESDE+2026;۞+ANTI+VIEW+ONCE+ACTIVADO;۞+IA+NEURAL+INTEGRADA" alt="Typing"/>
 </p>
 
-## ⚙️ STACK TECNOLÓGICO 2026
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,redis,python,docker,git,github,vscode,linux&theme=dark" alt="Tech Stack"/>
 </p>
@@ -45,25 +43,6 @@
   <img src="https://img.shields.io/badge/Stable_Diffusion_XL-0D0D0D?style=for-the-badge&logo=stabilityai&logoColor=00FFFF" alt="SDXL"/>
   <img src="https://img.shields.io/badge/Whisper_AI-0D0D0D?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Whisper"/>
 </p>
-
----
-
-## 🚀 FUNCIONES EXCLUSIVAS 2026
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecarlos19&custom_title=ACTIVIDAD+NEURAL+2026&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
-| 🔥 FUNCIÓN | DESCRIPCIÓN | STATUS |
-|------------|-------------|--------|
-| 🧠 **IA Multi-Modal** | ChatGPT5 + Gemini Pro + Claude 3 en un solo bot | `ONLINE` |
-| 👁️ **Anti View Once Pro** | Filtra fotos, videos y audios view once automático | `ACTIVE` |
-| 🎨 **Gen Imagen IA** | Stable Diffusion XL + DALL-E 3 desde WhatsApp | `BETA` |
-| 🔊 **Clonador de Voz** | Clona cualquier voz con 3 seg de audio | `NEW` |
-| 🌐 **Traductor Neural** | 100+ idiomas en tiempo real en grupos | `ONLINE` |
-| 📥 **Descarga Universal** | YT, TikTok, IG, Spotify, Pinterest, X | `ACTIVE` |
-| 🛡️ **Anti Nuke 2026** | Protección contra raids y spam masivo | `SHIELD` |
-| 🎮 **RPG Neural** | Sistema de niveles con IA que evoluciona | `EXCLUSIVE` |
 
 ---
 
@@ -92,7 +71,7 @@
 
 ---
 
-## ⚡ CANAL OFICIAL + COMUNIDAD
+## Mi  CANAL OFICIAL
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04?text=.menu">
@@ -110,7 +89,7 @@
 
 ---
 
-## 📊 ESTADÍSTICAS NEURALES
+## 📊Mis  estadísticas 
 
 <div align="center">
   <a href="https://github.com/thecarlos19/">
@@ -125,7 +104,7 @@
 
 ---
 
-## 💻 MI PROYECTO PRINCIPAL 2026
+## 💻 MI PROYECTO PRINCIPAL 
 
 <p align="center">
   <a href="https://github.com/thecarlos19/black-clover-MD">
