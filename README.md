@@ -130,6 +130,6 @@
 
 <blockquote>
   <b>⚙️ Powered By</b> <a href="https://wa.me/525544876071?text=Hola+vengo+de+tu+perfil+de+GitHub+👑">The Carlos 👑</a> | 
-  <b>🔥 Version:</b> <code>V777 2026 Neural Edition</code> | 
+  <b>🔥 Version:</b> <code>V777 2026 Edition</code> | 
   <b>⚡ Uptime:</b> <code>99.9%</code>
 </blockquote>
